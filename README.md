@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate **Front-end Developer** with a lo
 
 ## Featured Projects
 - **[Task Manager](https://github.com/lxndrbukin/todolistmanagercli)**: A CLI-based task management tool built with Python.
-- **[Weatherly](https://github.com/lxndrbukin/weatherly-rts)**: A simple Weather app created using the React, TypeScript and Redux Toolkit. Live [here](https://lxndrbukin.github.io/weatherly-rts/)
+- **[Weatherly](https://github.com/lxndrbukin/weatherly-rts)**: A simple Weather app built with React, TypeScript and Redux Toolkit. Live [here](https://lxndrbukin.github.io/weatherly-rts/)
 - **[Portfolio Site](https://github.com/lxndrbukin/portfolio2024v3)**: My personal website built with React and Redux Toolkit. Live [here](https://lxndrbukin.com).
 
 ## GitHub Stats

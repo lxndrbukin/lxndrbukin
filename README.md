@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm Alex!
 
-<!--
-**lxndrbukin/lxndrbukin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **Front-end Developer** with a love for building intuitive web applications and contributing to open-source projects. Based in Birmingham (UK), I enjoy solving complex problems and learning new technologies.
 
-Here are some ideas to get you started:
+## About Me
+- Proficient in **JavaScript**/**TypeScript** and **React**.
+- Currently learning **Python**, **Node.js** and exploring **AI** development.
+- Reach me at: [LinkedIn](https://www.linkedin.com/in/lxndrbukin/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **[Task Manager](https://github.com/lxndrbukin/todolistmanagercli)**: A CLI-based task management tool built with Python.
+- **[Weatherly](https://github.com/lxndrbukin/weatherly-rts)**: A simple Weather app created using the React, TypeScript and Redux Toolkit. Live [here](https://lxndrbukin.github.io/weatherly-rts/)
+- **[Portfolio Site](https://github.com/lxndrbukin/portfolio2024v3)**: My personal website built with React and Redux Toolkit. Live [here](https://lxndrbukin.com).
+
+## GitHub Stats
+![Alexander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lxndrbukin&show_icons=true&theme=radical)
+
+Feel free to explore my repositories and drop a star ⭐ if you find something useful!

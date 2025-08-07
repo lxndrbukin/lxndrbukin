@@ -1,6 +1,6 @@
 # Hi, I'm Alex!
 
-Welcome to my GitHub profile! I'm a passionate **Front-end Developer** with a love for building intuitive web applications and contributing to open-source projects. Based in Birmingham (UK), I enjoy solving complex problems and learning new technologies.
+Welcome to my GitHub profile! I'm a passionate **Front-end Developer** with a love for building intuitive web applications. Based in Birmingham (UK), I enjoy solving complex problems and learning new technologies.
 
 ## About Me
 - Proficient in **JavaScript**/**TypeScript** and **React**.

@@ -12,6 +12,12 @@ Welcome to my GitHub profile! I'm a passionate **Front-end Developer** with a lo
 - **[Weatherly](https://github.com/lxndrbukin/weatherly-rts)**: A simple Weather app built with React, TypeScript and Redux Toolkit. Live [here](https://lxndrbukin.github.io/weatherly-rts/)
 - **[Portfolio Site](https://github.com/lxndrbukin/portfolio2024v3)**: My personal website built with React and Redux Toolkit. Live [here](https://lxndrbukin.com).
 
+## boot.dev
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/337473a0-aa27-4c98-83d1-315b5c9c7dd3/thumbnail" >
+</p>
+
+
 ## GitHub Stats
 ![Alexander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lxndrbukin&show_icons=true&theme=transparent)
 

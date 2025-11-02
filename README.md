@@ -1,5 +1,7 @@
 # Hi, I'm Alex!
-
+<p align="left">
+  <img src="https://www.codewars.com/users/lxndrbukin/badges/large">
+</p>
 Welcome to my GitHub profile! I'm a passionate **Front-end Developer** with a love for building intuitive web applications. Based in Birmingham (UK), I enjoy solving complex problems and learning new technologies.
 
 ## About Me
@@ -15,11 +17,6 @@ Welcome to my GitHub profile! I'm a passionate **Front-end Developer** with a lo
 ## boot.dev
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/337473a0-aa27-4c98-83d1-315b5c9c7dd3/thumbnail" >
-</p>
-
-## Codewars
-<p align="left">
-  <img src="https://www.codewars.com/users/lxndrbukin/badges/large">
 </p>
 
 ## GitHub Stats

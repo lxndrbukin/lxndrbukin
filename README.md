@@ -2,6 +2,7 @@
 <p align="left">
   <img src="https://www.codewars.com/users/lxndrbukin/badges/large">
 </p>
+
 Welcome to my GitHub profile! I'm a passionate **Front-end Developer** with a love for building intuitive web applications. Based in Birmingham (UK), I enjoy solving complex problems and learning new technologies.
 
 ## About Me

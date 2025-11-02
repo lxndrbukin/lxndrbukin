@@ -17,6 +17,10 @@ Welcome to my GitHub profile! I'm a passionate **Front-end Developer** with a lo
   <img src="https://api.boot.dev/v1/users/public/337473a0-aa27-4c98-83d1-315b5c9c7dd3/thumbnail" >
 </p>
 
+## Codewars
+<p align="left">
+  <img src="https://www.codewars.com/users/lxndrbukin/badges/large">
+</p>
 
 ## GitHub Stats
 ![Alexander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lxndrbukin&show_icons=true&theme=transparent)

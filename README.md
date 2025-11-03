@@ -1,28 +1,52 @@
-# Hi, I'm Alex!
+# Hi, I'm Alex!  
 <p align="left">
   <img src="https://www.codewars.com/users/lxndrbukin/badges/large">
 </p>
 
-Welcome to my GitHub profile! I'm a passionate **Front-end Developer** with a love for building intuitive web applications. Based in Birmingham (UK), I enjoy solving complex problems and learning new technologies.
+**Backend in Training**  
+Birmingham, UK  
+*Building production-ready systems and intelligent applications — one commit at a time.*
+
+---
 
 ## About Me
-- Proficient in **JavaScript**/**TypeScript** and **React**.
-- Currently learning **Python**, **Node.js** and exploring **AI** development.
-- Reach me at: [LinkedIn](https://www.linkedin.com/in/lxndrbukin/).
+- **Current Focus**: Mastering **Python**, **Go**, **SQL** and **Docker**.
+- **Daily Practice**: Algorithms, data structures, backend architecture.
+- **Reach me**: [LinkedIn](https://www.linkedin.com/in/lxndrbukin/) | [Portfolio](https://alexbukin.dev)
+
+---
 
 ## Featured Projects
-- **[Task Manager](https://github.com/lxndrbukin/todolistmanagercli)**: A CLI-based task management tool built with Python.
-- **[Weatherly](https://github.com/lxndrbukin/weatherly-rts)**: A simple Weather app built with React, TypeScript and Redux Toolkit. Live [here](https://lxndrbukin.github.io/weatherly-rts/)
-- **[Portfolio Site](https://github.com/lxndrbukin/portfolio2024v3)**: My personal website built with React and Redux Toolkit. Live [here](https://lxndrbukin.com).
 
-## boot.dev
+| Project | Description | Tech | Live |
+|--------|-------------|------|------|
+| **[Task Manager CLI](https://github.com/lxndrbukin/todolistmanagercli)** | Full-featured terminal todo app with persistence, due dates, and tags. | Python | `pip install` ready |
+
+> *More projects coming soon — follow along!*
+
+---
+
+## boot.dev Progress
 <p align="left">
-  <img src="https://api.boot.dev/v1/users/public/337473a0-aa27-4c98-83d1-315b5c9c7dd3/thumbnail" >
+  <img src="https://api.boot.dev/v1/users/public/337473a0-aa27-4c98-83d1-315b5c9c7dd3/thumbnail">
 </p>
 
+> **Phase 1/5 Complete** – Python, Git, CLI tools, OOP  
+> **Phase 2 in progress** – Data Structures, Algorithms, and real-world problem solving
+
+---
+
 ## GitHub Stats
-![Alexander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lxndrbukin&show_icons=true&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lxndrbukin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxndrbukin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages">
+</p>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lxndrbukin&layout=compact&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lxndrbukin&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak">
+</p>
 
-Feel free to explore my repositories and drop a star ⭐ if you find something useful!
+--- 
+**Goal for 2026**: Become a **Backend Engineer** and transition into the world fo **AI Development**.
+
+Feel free to explore, fork, or star — and say hi on [LinkedIn](https://www.linkedin.com/in/lxndrbukin/)!  

@@ -3,7 +3,7 @@
   <img src="https://www.codewars.com/users/lxndrbukin/badges/large">
 </p>
 
-**Backend Developer in Training**  
+**Software Developer in Training**  
 Birmingham, UK  
 *Building production-ready systems and intelligent applications — one commit at a time.*
 

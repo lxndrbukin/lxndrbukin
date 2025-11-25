@@ -39,14 +39,8 @@ Birmingham, UK
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lxndrbukin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxndrbukin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages">
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lxndrbukin&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak">
-</p>
-
 --- 
 **Goal for 2026**: Become a **Backend Engineer** and transition into the world fo **AI Development**.
 

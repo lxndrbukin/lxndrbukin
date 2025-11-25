@@ -42,6 +42,6 @@ Birmingham, UK
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxndrbukin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages">
 </p>
 --- 
-**Goal for 2026**: Become a **Backend Engineer** and transition into the world fo **AI Development**.
+**Goal for 2026**: Become a **Software Engineer** and transition into the world fo **AI Development**.
 
 Feel free to explore, fork, or star — and say hi on [LinkedIn](https://www.linkedin.com/in/lxndrbukin/)!  

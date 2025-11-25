@@ -21,7 +21,7 @@ Birmingham, UK
 | Project | Description | Tech | Live |
 |--------|-------------|------|------|
 | **[Task Manager CLI](https://github.com/lxndrbukin/todolistmanagercli)** | Full-featured terminal todo app with persistence, due dates, and tags. | Python | `pip install` ready |
-| **[Weatherly](https://github.com/lxndrbukin/weatherly-rts)** | Basic weather app using OpenWeather API | React/TypeScript | |
+| **[Weatherly](https://github.com/lxndrbukin/weatherly-rts)** | Basic weather app using OpenWeather API | React | |
 
 > *More projects coming soon — follow along!*
 

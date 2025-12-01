@@ -10,7 +10,7 @@ Birmingham, UK
 ---
 
 ## About Me
-- **Current Focus**: Mastering **Python**, **Go**, **SQL** and **Docker**.
+- **Current Focus**: Mastering **Python** and **JavaScript/TypeScript**.
 - **Daily Practice**: Algorithms, data structures, backend architecture.
 - **Reach me**: [LinkedIn](https://www.linkedin.com/in/lxndrbukin/) | [Portfolio](https://alexbukin.dev)
 

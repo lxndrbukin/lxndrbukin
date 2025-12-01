@@ -35,13 +35,6 @@ Birmingham, UK
 > **Phase 1/5 Complete** – Python, Git, CLI tools, OOP  
 > **Phase 2 in progress** – Data Structures, Algorithms, and real-world problem solving
 
----
-
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxndrbukin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages">
-</p>
-
 --- 
 
 **Goal for 2026**: Become a **Software Engineer** and transition into the world fo **AI Development**.

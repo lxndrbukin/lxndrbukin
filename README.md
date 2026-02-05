@@ -20,7 +20,7 @@ Birmingham, UK
 
 | Project | Description | Tech | Live |
 |--------|-------------|------|------|
-| **[Task Manager CLI](https://github.com/lxndrbukin/todolistmanagercli)** | Full-featured terminal todo app with persistence, due dates, and tags. | Python | `pip install` ready |
+| **[Task Manager CLI](https://github.com/lxndrbukin/Task-Manager-CLI)** | Full-featured terminal todo app with persistence, due dates, and tags. | Python | `pip install` ready |
 | **[Automated File Organizer](https://github.com/lxndrbukin/Automated-File-Organizer)** | Smart file sorter with interactive wizard, conflict resolution, and Excel logging. | Python | `pip install` ready |
 | **[Weatherly](https://github.com/lxndrbukin/weatherly-rts)** | Basic weather app using OpenWeather API | React | [here](https://weatherly-rts.vercel.app/)|
 

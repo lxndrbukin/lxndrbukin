@@ -22,7 +22,7 @@ Birmingham, UK
 |--------|-------------|------|------|
 | **[Task Manager CLI](https://github.com/lxndrbukin/Task-Manager-CLI)** | Full-featured terminal todo app with persistence, due dates, and tags. | Python | `pip install` ready |
 | **[Automated File Organizer](https://github.com/lxndrbukin/Automated-File-Organizer)** | Smart file sorter with interactive wizard, conflict resolution, and Excel logging. | Python | `pip install` ready |
-| **[Weatherly](https://github.com/lxndrbukin/weatherly-rts)** | Basic weather app using OpenWeather API | React | [here](https://weatherly-rts.vercel.app/)|
+| **[Weatherly](https://github.com/lxndrbukin/Weatherly)** | Basic weather app using OpenWeather API | React | [here](https://weatherly-rts.vercel.app/)|
 
 > *More projects coming soon — follow along!*
 
@@ -38,6 +38,6 @@ Birmingham, UK
 
 --- 
 
-**Goal for 2026**: Become a **Software Engineer** and transition into the world fo **AI Development**.
+**Goal for 2026**: Become a **Software Engineer** and transition into the world of **AI Development**.
 
 Feel free to explore, fork, or star — and say hi on [LinkedIn](https://www.linkedin.com/in/lxndrbukin/)!  

@@ -23,7 +23,7 @@ Birmingham, UK
 | **[ThinkFlow](https://github.com/lxndrbukin/ThinkFlow)** | Full-stack AI assistant with real-time streaming, tool calling (weather, notes, web search), and persistent chat history. | Python, FastAPI, React, TypeScript | [here](https://thinkflow-eosin.vercel.app/) |
 | **[Task Manager CLI](https://github.com/lxndrbukin/Task-Manager-CLI)** | Full-featured terminal todo app with persistence, due dates, and tags. | Python | `pip install` ready |
 | **[Automated File Organizer](https://github.com/lxndrbukin/Automated-File-Organizer)** | Smart file sorter with interactive wizard, conflict resolution, and Excel logging. | Python | `pip install` ready |
-| **[Weatherly](https://github.com/lxndrbukin/Weatherly)** | Basic weather app using OpenWeather API | React | [here](https://weatherly-rts.vercel.app/)|
+| **[Weatherly](https://github.com/lxndrbukin/Weatherly)** | Basic weather app using OpenWeather API | React, TypeScript | [here](https://weatherly-rts.vercel.app/)|
 
 > *More projects coming soon — follow along!*
 

@@ -20,6 +20,7 @@ Birmingham, UK
 
 | Project | Description | Tech | Live |
 |--------|-------------|------|------|
+| **[ThinkFlow](https://github.com/lxndrbukin/ThinkFlow)** | Full-stack AI assistant with real-time streaming, tool calling (weather, notes, web search), and persistent chat history. | Python, FastAPI, React, TypeScript | [here](https://thinkflow-eosin.vercel.app/) |
 | **[Task Manager CLI](https://github.com/lxndrbukin/Task-Manager-CLI)** | Full-featured terminal todo app with persistence, due dates, and tags. | Python | `pip install` ready |
 | **[Automated File Organizer](https://github.com/lxndrbukin/Automated-File-Organizer)** | Smart file sorter with interactive wizard, conflict resolution, and Excel logging. | Python | `pip install` ready |
 | **[Weatherly](https://github.com/lxndrbukin/Weatherly)** | Basic weather app using OpenWeather API | React | [here](https://weatherly-rts.vercel.app/)|
@@ -40,4 +41,4 @@ Birmingham, UK
 
 **Goal for 2026**: Become a **Software Engineer** and transition into the world of **AI Development**.
 
-Feel free to explore, fork, or star — and say hi on [LinkedIn](https://www.linkedin.com/in/lxndrbukin/)!  
+Feel free to explore, fork, or star — and say hi on [LinkedIn](https://www.linkedin.com/in/lxndrbukin/)!

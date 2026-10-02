@@ -24,6 +24,7 @@ Birmingham, UK
 
 | Project | Description | Tech | Live |
 |--------|-------------|------|------|
+| **[SmartMobili](https://github.com/lxndrbukin/SmartMobili)** | Bilingual (Romanian and Russian) furniture catalogue and business platform built for a family furniture company, with a secured admin area, full CRUD, image uploads, and a Telegram bot that notifies the business of new customer enquiries. | Python, FastAPI, React, TypeScript, PostgreSQL | [↗](https://www.smartmobili-md.com/ro) |
 | **[ThinkFlow](https://github.com/lxndrbukin/ThinkFlow)** | Full-stack AI assistant with real-time streaming, tool calling (weather, notes, web search), multiple conversation threads, and PostgreSQL persistence. | Python, FastAPI, React, TypeScript, PostgreSQL | [↗](https://thinkflow-eosin.vercel.app/) |
 | **[LinkedIn Post Generator](https://github.com/lxndrbukin/linkedin-post-generator)** | AI-powered LinkedIn post generator with custom system messages, output examples, and image support. Powered by Anthropic Claude. | React, TypeScript, Claude API | [↗](https://linkedin-posts-tawny-seven.vercel.app/) |
 | **[Weatherly](https://github.com/lxndrbukin/Weatherly)** | Weather app with 5-day forecast and AI-generated natural language summary via a secure Vercel serverless function. | React, TypeScript, OpenAI API | [↗](https://weatherly-rts.vercel.app/) |

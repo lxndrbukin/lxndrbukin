@@ -38,7 +38,7 @@ Birmingham, UK
 
 ## Tech Stack
 
-**Data** — Python · SQL · PostgreSQL · pandas · PySpark · Apache Airflow · Parquet  
+**Data** — Python · SQL · PostgreSQL · PySpark · Apache Airflow · Parquet  
 **Cloud and tools** — AWS (S3, EMR Serverless, Athena) · Docker · Git  
 **Backend** — FastAPI · SQLAlchemy · REST APIs  
 **Frontend** — React · TypeScript · JavaScript  

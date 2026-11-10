@@ -4,7 +4,7 @@
   <img src="https://www.codewars.com/users/lxndrbukin/badges/large">
 </p>
 
-**Aspiring Data Engineer**  
+**Aspiring Software Developer and Data Engineer**  
 Birmingham, UK  
 *Building reliable data pipelines, one commit at a time.*
 

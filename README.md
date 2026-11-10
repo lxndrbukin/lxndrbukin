@@ -42,7 +42,7 @@ Birmingham, UK
 **Cloud and tools** — AWS (S3, EMR Serverless, Athena) · Docker · Git  
 **Backend** — FastAPI · SQLAlchemy · REST APIs  
 **Frontend** — React · TypeScript · JavaScript  
-**Learning now** — Power BI · Microsoft Fabric
+**Learning now** — Power BI
 
 ---
 

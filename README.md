@@ -1,4 +1,3 @@
-```
 # Hi, I'm Alex!
 
 <p align="left">
@@ -56,5 +55,3 @@ Birmingham, UK
 ---
 
 *Open to junior roles — feel free to explore, fork, or say hi on [LinkedIn](https://www.linkedin.com/in/lxndrbukin/)!*
-
-```
